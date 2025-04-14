@@ -1,4 +1,4 @@
-# SQL
+# SQL eğitimi
 
 Temel olarak SQL, sadece veri tabanlarına erişmek ve işlemek için kullanılır.
 
